@@ -13,7 +13,9 @@ Interactive Interface: Smooth user experience powered by JavaScript.
 ## 🛠️ Technologies Used
 
 HTML: Structuring the content of the application.
+
 CSS: Providing elegant and responsive styling.
+
 JavaScript: Enabling dynamic and interactive functionality.
 
 ## 📖 About the Website
